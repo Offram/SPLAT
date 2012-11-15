@@ -1,0 +1,46 @@
+JAI (Java Advanced Imaging)
+---------------------------
+- build pada, pokud v buildpath knihovna chybi
+- testovano na Fedore 17 s JAI v1.1.3 (jdk binarni instalace pro amd64)
+- je potreba JAI API, ne JAI image I/O
+- http://download.java.net/media/jai/builds/release/1_1_3/
+
+TAMFITS
+-------
+- build pada na spatnem kodovani zdrojaku (utf-8 vs. iso-8859-1)
+- reseni:	- predat kodovani Antu: ant -Dfile.encoding=iso-8859-1 build
+		- obohatit v tamfits/build.xml element "javac" o atribut 'encoding="iso-8859-1"'
+
+TOPCAT
+------
+- pri buildu se objevi chyba pri pokusu o prebiti metody getType() v uk.ac.starlink.topcat.SyntheticColumnQueryWindow
+- staci zmenit navratovy typ z Class na Type (pozor, metoda je volana i interne, takze Ctrl+F a zmenit dat. typ, kde je potreba)
+- metoda je public, takze mozna zfailuje v runtimu
+
+Frog
+----
+- error: package com.sun.image.codec.jpeg does not exist  - vazba na proprietarni balik Sunu, ktery byl odstranen z JDK7
+- uk.ac.starlink.frog.util.JPEGUtility.java
+- reseni: prepsat...:	- vyhodit importy com.sun.image.codec.jpeg
+			- pridat import javax.imageio.ImageIO;
+			- public static void printJPEG:	- vyhodit:
+							  JPEGImageEncoder encoder =  JPEGCodec.createJPEGEncoder( os );
+						          encoder.encode( image );
+							- nahradit:
+							  ImageIO.write(image, "jpeg", os);
+	- pro jistotu v frog/build.xml pridat do javac: 
+		<compilerarg value="-XDignore.symbol.file" compiler="javac1.6"/>
+      		<compilerarg value="-proc:none" compiler="javac1.7"/>
+		<compilerarg value="-XDignore.symbol.file" compiler="javac1.7"/>
+
+ttools
+------
+- pri instalaci vybafne tato chyba: ERROR:  '/home/grayw0lf/workspace/splat-ari/ttools/src/_starlink-bin_inst/etc/xdoc/toHTML.xslt
+- mozna zpusobena volbou jine instalacni slozky
+- reseni: prekopirovat ze skutecne inst. slozky (resp.) do teto struktury
+
+topcat
+------
+- pri instalaci vybafne tato chyba: ERROR:  '/home/grayw0lf/workspace/splat-ari/topcat/src/_starlink-bin_inst/etc/xdoc/toHTML.xslt
+- mozna zpusobena volbou jine instalacni slozky
+- reseni: prekopirovat ze skutecne inst. slozky (resp.) do teto struktury
