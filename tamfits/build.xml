@@ -27,7 +27,7 @@
  !      Peter W. Draper (14-JUL-2002)
  !
  !   Version:
- !      $Id$
+ !      $Id: build.xml 9307 2010-05-27 13:35:49Z mbt $
  !
  !-->
 
@@ -342,7 +342,8 @@
            destdir="${build.classes}"
            debug="${debug}"
            deprecation="${deprecation}"
-           optimize="${optimize}">
+           optimize="${optimize}"
+           encoding="iso-8859-1">
 
       <classpath refid="classpath"/>
 

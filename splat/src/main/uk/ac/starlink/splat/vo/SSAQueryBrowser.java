@@ -140,7 +140,7 @@ import javax.swing.BoxLayout;
  * @author Peter W. Draper
  * @author Mark Taylor
  * @author Margarida Castro Neves 
- * @version $Id$
+ * @version $Id: SSAQueryBrowser.java 10350 2012-11-15 13:27:36Z mcneves $
  *
  */
 public class SSAQueryBrowser

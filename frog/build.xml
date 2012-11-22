@@ -39,7 +39,7 @@
  !        Original Version used to build SPLAT.
  !
  !   Version:
- !      $Id$
+ !      $Id: build.xml 9307 2010-05-27 13:35:49Z mbt $
  !
  !-->
 
@@ -391,6 +391,9 @@
            optimize="${optimize}">
 
       <compilerarg value="-proc:none" compiler="javac1.6"/>
+      <compilerarg value="-XDignore.symbol.file" compiler="javac1.6"/>
+      <compilerarg value="-proc:none" compiler="javac1.7"/>
+      <compilerarg value="-XDignore.symbol.file" compiler="javac1.7"/>
       <classpath refid="classpath"/>
 
     </javac>

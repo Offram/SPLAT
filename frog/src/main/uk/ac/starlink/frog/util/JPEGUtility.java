@@ -1,7 +1,6 @@
 package uk.ac.starlink.frog.util;
 
-import com.sun.image.codec.jpeg.JPEGCodec;
-import com.sun.image.codec.jpeg.JPEGImageEncoder;
+import javax.imageio.ImageIO;
 
 import java.awt.AWTEvent;
 import java.awt.BorderLayout;
@@ -39,9 +38,9 @@ import uk.ac.starlink.ast.gui.ScientificFormat;
  * Do not rely on the jpeg codec anywhere else, as it may not be
  * present.
  *
- * @since $Date$
+ * @since $Date: 2005-06-03 18:37:17 +0200 (Fri, 03 Jun 2005) $
  * @author Peter W. Draper
- * @version $Id$
+ * @version $Id: JPEGUtility.java 3874 2005-06-03 16:37:17Z pwd $
  */
 public class JPEGUtility
 {
@@ -106,8 +105,7 @@ public class JPEGUtility
         // JPEG-encode the image and write to file.
         try {
             OutputStream os =  new FileOutputStream( outputFile );
-            JPEGImageEncoder encoder =  JPEGCodec.createJPEGEncoder( os );
-            encoder.encode( image );
+            ImageIO.write(image, "jpeg", os);
             os.close();
         }
         catch (Exception e) {
