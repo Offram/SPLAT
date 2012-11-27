@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.openshift.express.feature"
+      label="%featureName"
+      version="2.4.0.Beta2-v20121114-2331-B72"
+      provider-name="%providerName"
+      plugin="org.jboss.tools.openshift.express.ui">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="license.html">
+      Red Hat, Inc. licenses these features and plugins to you under
+certain open source licenses (or aggregations of such licenses),
+which in a particular case may include the Eclipse Public License,
+the GNU Lesser General Public License, and/or certain other open
+source licenses. For precise licensing details, consult the corresponding
+source code, or contact Red Hat Legal Affairs, 1801 Varsity Drive,
+Raleigh NC 27606 USA.
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.m2e.feature" version="1.2.0.20120903-1050" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.jboss.tools.openshift.express.ui"
+         download-size="615"
+         install-size="1237"
+         version="2.4.0.Beta2-v20121114-2331-B72"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.openshift.express.client"
+         download-size="684"
+         install-size="760"
+         version="2.4.0.Beta2-v20121114-2331-B72"
+         unpack="false"/>
+
+</feature>

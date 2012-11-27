@@ -1,0 +1,25 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Y7Kq0flfeVWKSmjAqzBaRBdmA4A=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: tMdYQt0GUVt/2Yxne9btYYPtRGg=
+
+Name: p2.inf
+SHA1-Digest: 5Zhmyhm5Y/der27ioZ3mdhhCdK4=
+
+Name: license.html
+SHA1-Digest: 2Y4vI1PIzyp/e7oWp4Beepwg7c4=
+
+Name: feature.properties
+SHA1-Digest: RXBFLo/mk9XUu6LbfUnsnHyaCDw=
+
+Name: META-INF/maven/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.feature/p
+ om.properties
+SHA1-Digest: jTvXQ13dYtvu2R39/E9MY6nAGso=
+
+Name: feature.xml
+SHA1-Digest: pkXFmQu0EhaXFhGjB71XnBLcZsM=
+
+Name: META-INF/maven/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.feature/p
+ om.xml
+SHA1-Digest: k7iJP2D4p0+ftbPDw+mERMGf6uc=
+

@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bundle-ActivationPolicy: lazy
+Built-By: hudson
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.ui;bundle-version="3.7.0",org.eclipse.core
+ .runtime;bundle-version="3.7.0",org.jboss.tools.vpe.html,org.mozilla.
+ xpcom,org.jboss.tools.vpe,org.jboss.tools.jsf.vpe.jsf,org.jboss.tools
+ .common,org.eclipse.jface.text;bundle-version="3.7.0",org.jboss.tools
+ .jst.jsp
+Bundle-Vendor: %providerName
+Build-Jdk: 1.6.0_30
+Bundle-Version: 3.4.0.Beta2-v20121114-2003-B27
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.jboss.tools.jsf.vpe.jbpm.JBPMTemplatePlugin
+Bundle-SymbolicName: org.jboss.tools.jsf.vpe.jbpm;singleton:=true
+Archiver-Version: Plexus Archiver
+

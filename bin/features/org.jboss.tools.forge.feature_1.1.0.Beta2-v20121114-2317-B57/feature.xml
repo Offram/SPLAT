@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.forge.feature"
+      label="%featureName"
+      version="1.1.0.Beta2-v20121114-2317-B57"
+      provider-name="%featureProvider">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.jboss.tools.forge.ui"
+         download-size="97"
+         install-size="183"
+         version="1.1.0.Beta2-v20121114-2317-B57"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.forge.runtime"
+         download-size="26312"
+         install-size="29152"
+         version="1.1.0.Beta2-v20121114-2317-B57"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.forge.core"
+         download-size="32"
+         install-size="58"
+         version="1.1.0.Beta2-v20121114-2317-B57"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.forge.runtime.ext"
+         download-size="14"
+         install-size="18"
+         version="1.1.0.Beta2-v20121114-2317-B57"
+         unpack="false"/>
+
+</feature>

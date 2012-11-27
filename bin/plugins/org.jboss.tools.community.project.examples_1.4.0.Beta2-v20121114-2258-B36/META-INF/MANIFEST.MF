@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Require-Bundle: org.jboss.tools.project.examples
+Bundle-Vendor: %BundleVendor
+Bundle-Version: 1.4.0.Beta2-v20121114-2258-B36
+Built-By: hudson
+Build-Jdk: 1.6.0_30
+Bundle-Localization: plugin
+Bundle-Name: %BundleName
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven
+Bundle-SymbolicName: org.jboss.tools.community.project.examples;single
+ ton:=true
+Archiver-Version: Plexus Archiver
+

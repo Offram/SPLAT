@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ClassPath: bin/
+Built-By: hudson
+Eclipse-BundleShape: dir
+Bundle-Name: %BundleName
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.jboss.tools.forge.runtime;bundle-version="1.0.0"
+Bundle-Vendor: %BundleProvider
+Build-Jdk: 1.6.0_30
+Bundle-Version: 1.1.0.Beta2-v20121114-2317-B57
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.jboss.tools.forge.runtime.ext
+Archiver-Version: Plexus Archiver
+

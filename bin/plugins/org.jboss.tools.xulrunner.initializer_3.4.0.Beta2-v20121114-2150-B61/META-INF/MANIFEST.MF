@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: hudson
+Eclipse-BundleShape: jar
+Bundle-Name: %BundleName
+Bundle-Localization: initializer
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.core.runtime;bundle-version="3.7.0"
+Bundle-Vendor: %BundleVendor
+Fragment-Host: org.eclipse.swt
+Build-Jdk: 1.6.0_30
+Bundle-Version: 3.4.0.Beta2-v20121114-2150-B61
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.jboss.tools.xulrunner.initializer;singleton:=
+ true
+Archiver-Version: Plexus Archiver
+

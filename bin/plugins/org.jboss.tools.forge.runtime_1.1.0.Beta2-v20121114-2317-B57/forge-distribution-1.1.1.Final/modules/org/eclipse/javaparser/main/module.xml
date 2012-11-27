@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ ~ Copyright 2012 Red Hat, Inc. and/or its affiliates.
+ ~
+ ~ Licensed under the Eclipse Public License version 1.0, available at
+ ~ http://www.eclipse.org/legal/epl-v10.html
+-->
+
+<module xmlns="urn:jboss:module:1.0" name="org.eclipse.javaparser">
+  <resources>
+    <resource-root path="contenttype-3.2.100-v20070319.jar"/>
+        <resource-root path="jobs-3.3.0-v20070423.jar"/>
+        <resource-root path="resources-3.3.0-v20070604.jar"/>
+        <resource-root path="runtime-3.3.100-v20070530.jar"/>
+        <resource-root path="core-3.3.0-v_771.jar"/>
+        <resource-root path="osgi-3.4.3.R34x_v20081215-1030.jar"/>
+        <resource-root path="common-3.3.0-v20070426.jar"/>
+        <resource-root path="preferences-3.2.100-v20070522.jar"/>
+        <resource-root path="text-3.3.0-v20070606-0010.jar"/>
+        <!-- Insert resources here -->
+  </resources>
+  
+  <dependencies>
+      <module name="javax.api" />
+  </dependencies>
+</module>

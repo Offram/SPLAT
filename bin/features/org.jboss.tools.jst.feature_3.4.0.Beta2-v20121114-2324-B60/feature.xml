@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.jst.feature"
+      label="%featureName"
+      version="3.4.0.Beta2-v20121114-2324-B60"
+      provider-name="%providerName">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.jboss.tools.common.feature" version="3.4.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.jboss.tools.jst.web"
+         download-size="514"
+         install-size="2019"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.web.kb"
+         download-size="407"
+         install-size="1967"
+         version="3.4.0.Beta2-v20121114-2324-B60"/>
+
+   <plugin
+         id="org.jboss.tools.jst.web.ui"
+         download-size="442"
+         install-size="875"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.web.verification"
+         download-size="18"
+         install-size="44"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.jsp"
+         download-size="479"
+         install-size="1013"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.firstrun"
+         download-size="12"
+         install-size="21"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.text.ext"
+         download-size="83"
+         install-size="176"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.css"
+         download-size="254"
+         install-size="518"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.web.tiles"
+         download-size="63"
+         install-size="161"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.jst.web.tiles.ui"
+         download-size="187"
+         install-size="367"
+         version="3.4.0.Beta2-v20121114-2324-B60"
+         unpack="false"/>
+
+</feature>

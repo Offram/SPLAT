@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_27
+Built-By: fbricon
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+
+Name: license.html
+SHA1-Digest: jYDaDJLBJpthCwPMgGFVYASJjIU=
+
+Name: META-INF/maven/org.sonatype.m2e.extras/org.sonatype.m2e.mavenarc
+ hiver.feature/pom.properties
+SHA1-Digest: yzIVN/895T1MGwu7s/CPbS0L5LU=
+
+Name: feature.properties
+SHA1-Digest: al6YhqtSe1RDjKqrh0qDJmkhpXI=
+
+Name: META-INF/maven/org.sonatype.m2e.extras/org.sonatype.m2e.mavenarc
+ hiver.feature/pom.xml
+SHA1-Digest: +jtV6ed9mspjpWFOIiNNOrdrmJs=
+
+Name: feature.xml
+SHA1-Digest: IJkJL9+tkPeaXkHQB4qWRvMKVO8=
+

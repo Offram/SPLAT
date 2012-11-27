@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1353795426631" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="org.eclipse.m2e.logback.feature" plugin-identifier="org.eclipse.m2e.logback.configuration" url="features/org.eclipse.m2e.logback.feature_1.2.0.20120903-1050/" version="1.2.0.20120903-1050">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.designer.core.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui" url="features/org.eclipse.datatools.connectivity.oda.designer.core.feature_1.10.1.v201208161415-7B7C7NCcNBGUBnIZDaUY/" version="1.10.1.v201208161415-7B7C7NCcNBGUBnIZDaUY">
+</feature>
+<feature id="org.eclipse.mylyn.wikitext_feature" plugin-identifier="org.eclipse.mylyn.wikitext.core" url="features/org.eclipse.mylyn.wikitext_feature_1.8.0.I20120916-0751/" version="1.8.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.common.jdt.feature" plugin-identifier="org.jboss.tools.common.jdt.debug" url="features/org.jboss.tools.common.jdt.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.mylyn.cvs" plugin-identifier="org.eclipse.mylyn.versions.core" url="features/org.eclipse.mylyn.cvs_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.recommenders.feature.rcp.core" url="features/org.eclipse.recommenders.feature.rcp.core_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.eclipse.datatools.doc.user" url="features/org.eclipse.datatools.doc.user_1.10.1.v201208161415-47C08w95FFAK89FHEC7/" version="1.10.1.v201208161415-47C08w95FFAK89FHEC7">
+</feature>
+<feature id="org.hibernate.eclipse.feature" plugin-identifier="org.hibernate.eclipse" url="features/org.hibernate.eclipse.feature_3.6.0.Beta2-v20121114-2323-B61/" version="3.6.0.Beta2-v20121114-2323-B61">
+</feature>
+<feature id="org.jboss.tools.jmx.feature" plugin-identifier="org.jboss.tools.jmx.ui" url="features/org.jboss.tools.jmx.feature_1.4.0.Beta2-v20121114-1949-B18/" version="1.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.8.1.v20120911-0500/" version="2.8.1.v20120911-0500">
+</feature>
+<feature id="org.jboss.ide.eclipse.as.archives.integration.feature" plugin-identifier="org.jboss.ide.eclipse.archives.webtools" url="features/org.jboss.ide.eclipse.as.archives.integration.feature_2.4.0.Beta2-v20121114-1949-B18/" version="2.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.javahl.feature" plugin-identifier="org.tigris.subversion.clientadapter.javahl" url="features/org.tigris.subversion.clientadapter.javahl.feature_1.7.7/" version="1.7.7">
+</feature>
+<feature id="org.eclipse.mylyn.builds" plugin-identifier="org.eclipse.mylyn.builds.core" url="features/org.eclipse.mylyn.builds_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.maven.jaxrs.feature" plugin-identifier="org.jboss.tools.maven.jaxrs" url="features/org.jboss.tools.maven.jaxrs.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.ide.eclipse.as.feature" plugin-identifier="org.jboss.ide.eclipse.as.ui" url="features/org.jboss.ide.eclipse.as.feature_2.4.0.Beta2-v20121114-1949-B18/" version="2.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.jboss.tools.ws.feature" plugin-identifier="org.jboss.tools.ws.ui" url="features/org.jboss.tools.ws.feature_1.4.0.CR1-v20121114-2057-B71/" version="1.4.0.CR1-v20121114-2057-B71">
+</feature>
+<feature id="org.jboss.tools.cdi.feature" url="features/org.jboss.tools.cdi.feature_1.4.0.Beta2-v20121114-2003-B27/" version="1.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.eclipse.equinox.p2.user.ui" url="features/org.eclipse.equinox.p2.user.ui_2.2.0.v20120727-170929-62DG9JXTlnz-5wj_D_3atAqu4lxw/" version="2.2.0.v20120727-170929-62DG9JXTlnz-5wj_D_3atAqu4lxw">
+</feature>
+<feature id="org.eclipse.recommenders.feature.completion.rcp.subwords" url="features/org.eclipse.recommenders.feature.completion.rcp.subwords_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.jboss.tools.maven.jsf.feature" plugin-identifier="org.jboss.tools.maven.jsf" url="features/org.jboss.tools.maven.jsf.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.runtime.core.feature" plugin-identifier="org.jboss.tools.runtime.core" url="features/org.jboss.tools.runtime.core.feature_2.0.0.Beta2-v20121114-2253-B23/" version="2.0.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.mylyn.commons.notifications" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.notifications_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.epp.package.common.feature" url="features/org.eclipse.epp.package.common.feature_2.0.0.20120823-0811/" version="2.0.0.20120823-0811">
+</feature>
+<feature id="org.eclipse.egit" url="features/org.eclipse.egit_2.1.0.201209190230-r/" version="2.1.0.201209190230-r">
+</feature>
+<feature id="org.eclipse.recommenders.feature.completion.rcp.intellig" url="features/org.eclipse.recommenders.feature.completion.rcp.intellig_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.jboss.tools.seam.feature" plugin-identifier="org.jboss.tools.seam.core" url="features/org.jboss.tools.seam.feature_3.4.0.Beta2-v20121114-2003-B27/" version="3.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.eclipse.jgit" url="features/org.eclipse.jgit_2.1.0.201209190230-r/" version="2.1.0.201209190230-r">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.feature" plugin-identifier="org.tigris.subversion.clientadapter" url="features/org.tigris.subversion.clientadapter.feature_1.8.3/" version="1.8.3">
+</feature>
+<feature id="org.jboss.tools.maven.jbosspackaging.feature" plugin-identifier="org.jboss.tools.maven.jbosspackaging" url="features/org.jboss.tools.maven.jbosspackaging.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.wst.xml_core.feature" url="features/org.eclipse.wst.xml_core.feature_3.4.1.v201208170345-7C7OFm5F7RZHQRIsOz-Nz-_n/" version="3.4.1.v201208170345-7C7OFm5F7RZHQRIsOz-Nz-_n">
+</feature>
+<feature id="org.eclipse.wst.server_core.feature" url="features/org.eclipse.wst.server_core.feature_3.3.100.v20110810_1722-33Et8s73563B6Ha3113/" version="3.3.100.v20110810_1722-33Et8s73563B6Ha3113">
+</feature>
+<feature id="org.eclipse.wst.ws_core.feature" url="features/org.eclipse.wst.ws_core.feature_3.4.0.v201108230503-7L7RFoGFGtGd-xhuy-rRwz-2766/" version="3.4.0.v201108230503-7L7RFoGFGtGd-xhuy-rRwz-2766">
+</feature>
+<feature id="org.eclipse.wst.ws_wsdl15.feature" url="features/org.eclipse.wst.ws_wsdl15.feature_1.5.301.v201102200555-2407w312123151655/" version="1.5.301.v201102200555-2407w312123151655">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.2.0.v20120917-0436/" version="1.2.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.8.0.v20120911-0500/" version="2.8.0.v20120911-0500">
+</feature>
+<feature id="org.jboss.ide.eclipse.freemarker.feature" plugin-identifier="org.jboss.ide.eclipse.freemarker" url="features/org.jboss.ide.eclipse.freemarker.feature_1.3.0.Beta2-v20121114-2318-B60/" version="1.3.0.Beta2-v20121114-2318-B60">
+</feature>
+<feature id="org.eclipse.jst.enterprise_userdoc.feature" url="features/org.eclipse.jst.enterprise_userdoc.feature_3.3.100.v201105122000-62FUGBgJ9EA9aEeHRHc/" version="3.3.100.v201105122000-62FUGBgJ9EA9aEeHRHc">
+</feature>
+<feature id="org.eclipse.equinox.p2.extras.feature" url="features/org.eclipse.equinox.p2.extras.feature_1.1.0.v20120727-170929-7A6FEcDiVOTg6D_8uZwEvKbrQdqq/" version="1.1.0.v20120727-170929-7A6FEcDiVOTg6D_8uZwEvKbrQdqq">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.recommenders.feature.3rd.orbit" url="features/org.eclipse.recommenders.feature.3rd.orbit_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.eclipse.jst.enterprise_core.feature" url="features/org.eclipse.jst.enterprise_core.feature_3.4.0.v201108110300-52FShAkF7BA8O8J9OC8/" version="3.4.0.v201108110300-52FShAkF7BA8O8J9OC8">
+</feature>
+<feature id="org.eclipse.wst.xml_ui.feature" plugin-identifier="org.eclipse.wst.xml.ui" url="features/org.eclipse.wst.xml_ui.feature_3.4.1.v201208170345-7H7GFeFDxumUpsw5rgjWnKDrsz0p4ymwjQz00T2S/" version="3.4.1.v201208170345-7H7GFeFDxumUpsw5rgjWnKDrsz0p4ymwjQz00T2S">
+</feature>
+<feature id="org.eclipse.equinox.p2.discovery.feature" url="features/org.eclipse.equinox.p2.discovery.feature_1.0.100.v20120727-170929-4-Bh9oB58A5N9L28PCQ/" version="1.0.100.v20120727-170929-4-Bh9oB58A5N9L28PCQ">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.tigris.subversion.subclipse.graph.feature" plugin-identifier="org.tigris.subversion.subclipse.graph" url="features/org.tigris.subversion.subclipse.graph.feature_1.1.1/" version="1.1.1">
+</feature>
+<feature id="org.eclipse.platform" url="features/org.eclipse.platform_4.3.0.v20120906-193445-9KF7DHdXFyMxeLkYz0qG0YQI7_Yv3uY9Dco8GMq/" version="4.3.0.v20120906-193445-9KF7DHdXFyMxeLkYz0qG0YQI7_Yv3uY9Dco8GMq">
+</feature>
+<feature id="org.eclipse.egit.mylyn" plugin-identifier="org.eclipse.egit" url="features/org.eclipse.egit.mylyn_2.1.0.201209190230-r/" version="2.1.0.201209190230-r">
+</feature>
+<feature id="org.jboss.tools.vpe.browsersim.feature" url="features/org.jboss.tools.vpe.browsersim.feature_3.4.0.Beta2-v20121114-2150-B61/" version="3.4.0.Beta2-v20121114-2150-B61">
+</feature>
+<feature id="org.jboss.tools.maven.jpa.feature" plugin-identifier="org.jboss.tools.maven.jpa" url="features/org.jboss.tools.maven.jpa.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.help" plugin-identifier="org.eclipse.help.base" url="features/org.eclipse.help_2.0.0.v20120727-171144-8T7WFLIFK_Qj4LmsEWSz-RVDHN/" version="2.0.0.v20120727-171144-8T7WFLIFK_Qj4LmsEWSz-RVDHN">
+</feature>
+<feature id="org.tigris.subversion.subclipse" plugin-identifier="org.tigris.subversion.subclipse.core" url="features/org.tigris.subversion.subclipse_1.8.16/" version="1.8.16">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore" url="features/org.eclipse.emf.codegen.ecore_2.8.1.v20120917-0436/" version="2.8.1.v20120917-0436">
+</feature>
+<feature id="org.eclipse.wst.server_ui.feature" url="features/org.eclipse.wst.server_ui.feature_3.3.101.v20120817_1533-7B7AFJQAtMduXxeIc0IpSdC97A9/" version="3.3.101.v20120817_1533-7B7AFJQAtMduXxeIc0IpSdC97A9">
+</feature>
+<feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.2.0.v20120917-0436/" version="1.2.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.datatools.enablement.jdbc.feature" plugin-identifier="org.eclipse.datatools.enablement.sybase" url="features/org.eclipse.datatools.enablement.jdbc.feature_1.10.1.v201208161415-4-29oB5895RAE8HHP/" version="1.10.1.v201208161415-4-29oB5895RAE8HHP">
+</feature>
+<feature id="org.jboss.tools.forge.feature" url="features/org.jboss.tools.forge.feature_1.1.0.Beta2-v20121114-2317-B57/" version="1.1.0.Beta2-v20121114-2317-B57">
+</feature>
+<feature id="org.jboss.tools.richfaces.feature" plugin-identifier="org.jboss.tools.vpe" url="features/org.jboss.tools.richfaces.feature_3.4.0.Beta2-v20121114-2003-B27/" version="3.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.eclipse.mylyn.commons" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.ide.eclipse.as.server.rse.integration.feature" plugin-identifier="org.jboss.ide.eclipse.as.rse.ui" url="features/org.jboss.ide.eclipse.as.server.rse.integration.feature_2.4.0.Beta2-v20121114-1949-B18/" version="2.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.eclipse.epp.mpc" plugin-identifier="org.eclipse.epp.mpc.ui" url="features/org.eclipse.epp.mpc_1.1.1.I20110907-0947/" version="1.1.1.I20110907-0947">
+</feature>
+<feature id="org.jboss.tools.maven.profiles.feature" plugin-identifier="org.jboss.tools.maven.profiles.ui" url="features/org.jboss.tools.maven.profiles.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.usage.feature" url="features/org.jboss.tools.usage.feature_1.2.0.Beta2-v20121114-2253-B23/" version="1.2.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.wst.web_core.feature" url="features/org.eclipse.wst.web_core.feature_3.4.1.v201208170345-7E7HFSlAJz-mw9qA03HKTuLirZsDJyCao/" version="3.4.1.v201208170345-7E7HFSlAJz-mw9qA03HKTuLirZsDJyCao">
+</feature>
+<feature id="org.eclipse.mylyn.commons.repositories" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.repositories_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.jsf.feature" url="features/org.jboss.tools.jsf.feature_3.4.0.Beta2-v20121114-2003-B27/" version="3.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.9.0.v20120730-103744-8-8sFvRFNOfwKDRz0j6XMPt0Mh83/" version="3.9.0.v20120730-103744-8-8sFvRFNOfwKDRz0j6XMPt0Mh83">
+</feature>
+<feature id="org.eclipse.mylyn.java_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.java_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.jboss.tools.maven.cdi.feature" plugin-identifier="org.jboss.tools.maven.cdi" url="features/org.jboss.tools.maven.cdi.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.wb.swing.feature" plugin-identifier="org.eclipse.wb.swing" url="features/org.eclipse.wb.swing.feature_1.5.0.r42x201206111310/" version="1.5.0.r42x201206111310">
+</feature>
+<feature id="org.tigris.subversion.subclipse.mylyn" url="features/org.tigris.subversion.subclipse.mylyn_3.0.0/" version="3.0.0">
+</feature>
+<feature id="org.jboss.tools.community.central.feature" plugin-identifier="org.jboss.tools.community.central" url="features/org.jboss.tools.community.central.feature_1.1.0.Beta2-v20121114-2258-B36/" version="1.1.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.maven.portlet.feature" plugin-identifier="org.jboss.tools.maven.portlet" url="features/org.jboss.tools.maven.portlet.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.wst.web_ui.feature" plugin-identifier="org.eclipse.wst.web.ui" url="features/org.eclipse.wst.web_ui.feature_3.4.1.v201208170345-7O7MFsPEMkBJz0wtb-ccsarPSceUIHO9iKk6XVPV/" version="3.4.1.v201208170345-7O7MFsPEMkBJz0wtb-ccsarPSceUIHO9iKk6XVPV">
+</feature>
+<feature id="org.eclipse.mylyn.context_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.context_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.ui" url="features/org.eclipse.emf.codegen.ecore.ui_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.1.0.v20120727-170929-8297FsJFWmE7h5BKqPcppvKed/" version="1.1.0.v20120727-170929-8297FsJFWmE7h5BKqPcppvKed">
+</feature>
+<feature id="org.sonatype.m2e.mavenarchiver.feature" plugin-identifier="org.sonatype.m2e.mavenarchiver" url="features/org.sonatype.m2e.mavenarchiver.feature_0.15.0.201207090125-signed-201209140800/" version="0.15.0.201207090125-signed-201209140800">
+</feature>
+<feature id="org.eclipse.mylyn.hudson" plugin-identifier="org.eclipse.mylyn.builds.core" url="features/org.eclipse.mylyn.hudson_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.common.verification.feature" url="features/org.jboss.tools.common.verification.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.mylyn.tasks.ide" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn.tasks.ide_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.wst.web_userdoc.feature" url="features/org.eclipse.wst.web_userdoc.feature_3.3.0.v201102200555-31Eo8s734B3E4H7799/" version="3.3.0.v201102200555-31Eo8s734B3E4H7799">
+</feature>
+<feature id="net.java.dev.jna" url="features/net.java.dev.jna_3.4.0.t20120117_1605/" version="3.4.0.t20120117_1605">
+</feature>
+<feature id="org.eclipse.egit.psf" url="features/org.eclipse.egit.psf_2.1.0.201209190230-r/" version="2.1.0.201209190230-r">
+</feature>
+<feature id="org.eclipse.equinox.p2.rcp.feature" url="features/org.eclipse.equinox.p2.rcp.feature_1.1.0.v20120727-170929-785F8NBqNKNZ1z-Y2sUe9dFSrQdq/" version="1.1.0.v20120727-170929-785F8NBqNKNZ1z-Y2sUe9dFSrQdq">
+</feature>
+<feature id="org.eclipse.mylyn.ide_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.ide_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.ide.eclipse.as.serverAdapter.wtp.feature" url="features/org.jboss.ide.eclipse.as.serverAdapter.wtp.feature_2.4.0.Beta2-v20121114-1949-B18/" version="2.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.eclipse.jst.web_userdoc.feature" url="features/org.eclipse.jst.web_userdoc.feature_3.4.1.v201208231800-2117w312319373364/" version="3.4.1.v201208231800-2117w312319373364">
+</feature>
+<feature id="org.jboss.tools.openshift.express.feature" plugin-identifier="org.jboss.tools.openshift.express.ui" url="features/org.jboss.tools.openshift.express.feature_2.4.0.Beta2-v20121114-2331-B72/" version="2.4.0.Beta2-v20121114-2331-B72">
+</feature>
+<feature id="org.eclipse.mylyn.monitor" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.monitor_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.maven.sourcelookup.feature" plugin-identifier="org.jboss.tools.maven.sourcelookup.core" url="features/org.jboss.tools.maven.sourcelookup.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.cdi.seam.feature" url="features/org.jboss.tools.cdi.seam.feature_1.4.0.Beta2-v20121114-2003-B27/" version="1.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.eclipse.wb.core.ui.feature" plugin-identifier="org.eclipse.wb.core.ui" url="features/org.eclipse.wb.core.ui.feature_1.5.0.r42x201206111213/" version="1.5.0.r42x201206111213">
+</feature>
+<feature id="org.jboss.tools.common.mylyn.feature" url="features/org.jboss.tools.common.mylyn.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.emf" url="features/org.eclipse.emf_2.8.1.v20120917-0436/" version="2.8.1.v20120917-0436">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda" url="features/org.eclipse.datatools.connectivity.oda.feature_1.10.1.v201208161415-7H7C7TCcNBHLCnH_EYOb/" version="1.10.1.v201208161415-7H7C7TCcNBHLCnH_EYOb">
+</feature>
+<feature id="org.eclipse.wst.server_userdoc.feature" url="features/org.eclipse.wst.server_userdoc.feature_3.3.200.v20120830_2320-20Eo7w31231941a3363/" version="3.3.200.v20120830_2320-20Eo7w31231941a3363">
+</feature>
+<feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.wst.xml_userdoc.feature" url="features/org.eclipse.wst.xml_userdoc.feature_3.3.0.v201102071641-50FYwAkF7B77UBZFDBL/" version="3.3.0.v201102071641-50FYwAkF7B77UBZFDBL">
+</feature>
+<feature id="org.eclipse.emf.converter" url="features/org.eclipse.emf.converter_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.wst.ws_userdoc.feature" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.300.v201102200555-44FR79oB5855Q8IBD7G/" version="3.1.300.v201102200555-44FR79oB5855Q8IBD7G">
+</feature>
+<feature id="org.eclipse.recommenders.feature.completion.rcp.chain" url="features/org.eclipse.recommenders.feature.completion.rcp.chain_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.eclipse.mylyn.bugzilla_feature" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn.bugzilla_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.jst.enterprise_ui.feature" plugin-identifier="org.eclipse.jst.jee.ui" url="features/org.eclipse.jst.enterprise_ui.feature_3.4.0.v201107072300-7b7JIM0FSK2WM1PS9Ar7AKUz0TrWn/" version="3.4.0.v201107072300-7b7JIM0FSK2WM1PS9Ar7AKUz0TrWn">
+</feature>
+<feature id="org.jboss.tools.maven.seam.feature" plugin-identifier="org.jboss.tools.maven.seam" url="features/org.jboss.tools.maven.seam.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.tigris.subversion.clientadapter.svnkit.feature" plugin-identifier="org.tigris.subversion.clientadapter.svnkit" url="features/org.tigris.subversion.clientadapter.svnkit.feature_1.7.5.1/" version="1.7.5.1">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.oda.designer.feature" plugin-identifier="org.eclipse.datatools.connectivity.oda.design.ui" url="features/org.eclipse.datatools.connectivity.oda.designer.feature_1.10.1.v201208161415-4127w312312232267/" version="1.10.1.v201208161415-4127w312312232267">
+</feature>
+<feature id="com.collabnet.subversion.merge.feature" plugin-identifier="com.collabnet.subversion.merge" url="features/com.collabnet.subversion.merge.feature_3.0.12/" version="3.0.12">
+</feature>
+<feature id="org.jboss.tools.portlet.feature" plugin-identifier="org.jboss.tools.portlet.ui" url="features/org.jboss.tools.portlet.feature_1.4.0.Beta2-v20121114-2241-B58/" version="1.4.0.Beta2-v20121114-2241-B58">
+</feature>
+<feature id="org.jboss.tools.vpe.feature" url="features/org.jboss.tools.vpe.feature_3.4.0.Beta2-v20121114-2150-B61/" version="3.4.0.Beta2-v20121114-2150-B61">
+</feature>
+<feature id="org.jboss.tools.maven.hibernate.feature" plugin-identifier="org.jboss.tools.maven.hibernate" url="features/org.jboss.tools.maven.hibernate.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.pde" url="features/org.eclipse.pde_3.8.1.v20120814-104528-7c7vFixFFt6Zr5aC6KM6LGWSd/" version="3.8.1.v20120814-104528-7c7vFixFFt6Zr5aC6KM6LGWSd">
+</feature>
+<feature id="org.eclipse.emf.common.ui" url="features/org.eclipse.emf.common.ui_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.jboss.tools.maven.feature" plugin-identifier="org.jboss.tools.maven.ui" url="features/org.jboss.tools.maven.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.epp.package.java.feature" plugin-identifier="org.eclipse.epp.package.java" url="features/org.eclipse.epp.package.java.feature_2.0.0.20120924-1448/" version="2.0.0.20120924-1448">
+</feature>
+<feature id="org.jboss.tools.community.project.examples.feature" plugin-identifier="org.jboss.tools.community.project.examples" url="features/org.jboss.tools.community.project.examples.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.common.feature" url="features/org.jboss.tools.common.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.jboss.tools.maven.project.examples.feature" plugin-identifier="org.jboss.tools.maven.project.examples" url="features/org.jboss.tools.maven.project.examples.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.m2e.wtp.feature" plugin-identifier="org.eclipse.m2e.wtp" url="features/org.eclipse.m2e.wtp.feature_0.16.0.20120914-0945/" version="0.16.0.20120914-0945">
+</feature>
+<feature id="org.jboss.tools.ws.jaxrs.feature" url="features/org.jboss.tools.ws.jaxrs.feature_1.4.0.CR1-v20121114-2057-B71/" version="1.4.0.CR1-v20121114-2057-B71">
+</feature>
+<feature id="org.eclipse.wst.ws_ui.feature" url="features/org.eclipse.wst.ws_ui.feature_3.4.1.v201208172041-7I7CFkXEtEoXHw684K6n3-z-F3stz0lKFx169q5z/" version="3.4.1.v201208172041-7I7CFkXEtEoXHw684K6n3-z-F3stz0lKFx169q5z">
+</feature>
+<feature id="org.jboss.ide.eclipse.archives.feature" plugin-identifier="org.jboss.ide.eclipse.archives.ui" url="features/org.jboss.ide.eclipse.archives.feature_3.4.0.Beta2-v20121114-1949-B18/" version="3.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.jboss.tools.maven.jdt.feature" plugin-identifier="org.jboss.tools.maven.jdt" url="features/org.jboss.tools.maven.jdt.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.runtime.seam.detector.feature" plugin-identifier="org.jboss.tools.runtime.seam.detector" url="features/org.jboss.tools.runtime.seam.detector.feature_3.4.0.Beta2-v20121114-2003-B27/" version="3.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.tmatesoft.svnkit" url="features/org.tmatesoft.svnkit_1.7.5.v1_r9382_v20120718_1415/" version="1.7.5.v1_r9382_v20120718_1415">
+</feature>
+<feature id="org.jboss.ide.eclipse.as.jmx.integration.feature" plugin-identifier="org.jboss.ide.eclipse.as.jmx.integration" url="features/org.jboss.ide.eclipse.as.jmx.integration.feature_2.4.0.Beta2-v20121114-1949-B18/" version="2.4.0.Beta2-v20121114-1949-B18">
+</feature>
+<feature id="org.jboss.tools.common.ui.feature" url="features/org.jboss.tools.common.ui.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.mylyn.discovery" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.discovery_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.datatools.modelbase.feature" plugin-identifier="org.eclipse.datatools.modelbase.sql" url="features/org.eclipse.datatools.modelbase.feature_1.10.1.v201208161415-7707FCcNBHLCgLUEdUb/" version="1.10.1.v201208161415-7707FCcNBHLCgLUEdUb">
+</feature>
+<feature id="org.eclipse.mylyn.commons.repositories.http" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.repositories.http_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.cvs" url="features/org.eclipse.cvs_1.4.0.v20120730-104118-7B79FKsAkF7BF7ZBJ5DADR33/" version="1.4.0.v20120730-104118-7B79FKsAkF7BF7ZBJ5DADR33">
+</feature>
+<feature id="org.eclipse.mylyn.team_feature" plugin-identifier="org.eclipse.mylyn.context.core" url="features/org.eclipse.mylyn.team_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.mylyn.git" plugin-identifier="org.eclipse.mylyn.versions.core" url="features/org.eclipse.mylyn.git_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.cdi.deltaspike.feature" url="features/org.jboss.tools.cdi.deltaspike.feature_1.4.0.Beta2-v20121114-2003-B27/" version="1.4.0.Beta2-v20121114-2003-B27">
+</feature>
+<feature id="org.jboss.tools.central.feature" plugin-identifier="org.jboss.tools.central" url="features/org.jboss.tools.central.feature_1.1.0.Beta2-v20121114-2258-B36/" version="1.1.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.eclipse.recommenders.feature.rcp" plugin-identifier="org.eclipse.recommenders.rcp" url="features/org.eclipse.recommenders.feature.rcp_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.eclipse.jst.web_ui.feature" url="features/org.eclipse.jst.web_ui.feature_3.4.1.v201208231800-7F7DFSlC25UrkX5qvgnXz0LZDA6kiWwylC3uxsWk/" version="3.4.1.v201208231800-7F7DFSlC25UrkX5qvgnXz0LZDA6kiWwylC3uxsWk">
+</feature>
+<feature id="org.eclipse.mylyn_feature" plugin-identifier="org.eclipse.mylyn.tasks.core" url="features/org.eclipse.mylyn_feature_3.9.0.I20120916-0751/" version="3.9.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.egit.import" plugin-identifier="org.eclipse.egit" url="features/org.eclipse.egit.import_2.0.0.201206130900-r/" version="2.0.0.201206130900-r">
+</feature>
+<feature id="org.eclipse.recommenders.feature.3rd.rcp.nonorbit" url="features/org.eclipse.recommenders.feature.3rd.rcp.nonorbit_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.jboss.tools.jst.feature" url="features/org.jboss.tools.jst.feature_3.4.0.Beta2-v20121114-2324-B60/" version="3.4.0.Beta2-v20121114-2324-B60">
+</feature>
+<feature id="org.eclipse.wb.layout.group.feature" plugin-identifier="org.eclipse.wb.layout.group" url="features/org.eclipse.wb.layout.group.feature_1.5.0.r42x201206111249/" version="1.5.0.r42x201206111249">
+</feature>
+<feature id="org.eclipse.datatools.connectivity.feature" plugin-identifier="org.eclipse.datatools.connectivity" url="features/org.eclipse.datatools.connectivity.feature_1.10.1.v201208161415-7C7h94Et1axpCXkXlTa6fgHd9vA/" version="1.10.1.v201208161415-7C7h94Et1axpCXkXlTa6fgHd9vA">
+</feature>
+<feature id="org.eclipse.jst.web_core.feature" url="features/org.eclipse.jst.web_core.feature_3.4.1.v201208160300-7Q7EGVxFE9LeAJKvylauQtyivz-0sSxz003877/" version="3.4.1.v201208160300-7Q7EGVxFE9LeAJKvylauQtyivz-0sSxz003877">
+</feature>
+<feature id="org.eclipse.wb.core.feature" plugin-identifier="org.eclipse.wb.core" url="features/org.eclipse.wb.core.feature_1.5.0.r42x201206111201/" version="1.5.0.r42x201206111201">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_4.3.0.v20120906-193445-7IAQBgBrHQisSAV_OxJwDZEdj4Nt/" version="4.3.0.v20120906-193445-7IAQBgBrHQisSAV_OxJwDZEdj4Nt">
+</feature>
+<feature id="org.eclipse.wst.common_ui.feature" url="features/org.eclipse.wst.common_ui.feature_3.4.1.v201208170300-7C7AFeEEdhOaweJhCnQfykJvPz-S1RT/" version="3.4.1.v201208170300-7C7AFeEEdhOaweJhCnQfykJvPz-S1RT">
+</feature>
+<feature id="org.eclipse.recommenders.feature.extdoc.rcp" url="features/org.eclipse.recommenders.feature.extdoc.rcp_1.0.0.v20120826-0745-b169/" version="1.0.0.v20120826-0745-b169">
+</feature>
+<feature id="org.jboss.tools.common.text.ext.feature" url="features/org.jboss.tools.common.text.ext.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.jboss.tools.openshift.egit.integration.feature" url="features/org.jboss.tools.openshift.egit.integration.feature_2.4.0.Beta2-v20121114-2331-B72/" version="2.4.0.Beta2-v20121114-2331-B72">
+</feature>
+<feature id="org.eclipse.m2e.feature" plugin-identifier="org.eclipse.m2e.core" url="features/org.eclipse.m2e.feature_1.2.0.20120903-1050/" version="1.2.0.20120903-1050">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_1.1.0.v20120912-132757-8yFTYGTCGGduTpN0ci3Ms3l5qU/" version="1.1.0.v20120912-132757-8yFTYGTCGGduTpN0ci3Ms3l5qU">
+</feature>
+<feature id="org.eclipse.mylyn.commons.identity" plugin-identifier="org.eclipse.mylyn.commons.core" url="features/org.eclipse.mylyn.commons.identity_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.jboss.tools.project.examples.feature" plugin-identifier="org.jboss.tools.project.examples" url="features/org.jboss.tools.project.examples.feature_1.4.0.Beta2-v20121114-2258-B36/" version="1.4.0.Beta2-v20121114-2258-B36">
+</feature>
+<feature id="org.jboss.tools.common.core.feature" url="features/org.jboss.tools.common.core.feature_3.4.0.Beta2-v20121114-2253-B23/" version="3.4.0.Beta2-v20121114-2253-B23">
+</feature>
+<feature id="org.eclipse.wst.common_core.feature" url="features/org.eclipse.wst.common_core.feature_3.4.1.v201208162200-7B7EFMTF7RZHOjIuOyR0QS/" version="3.4.1.v201208162200-7B7EFMTF7RZHOjIuOyR0QS">
+</feature>
+<feature id="org.eclipse.wst.jsdt.feature" plugin-identifier="org.eclipse.wst.jsdt.ui" url="features/org.eclipse.wst.jsdt.feature_1.4.1.v201208171701-7H7DFg0FC7sReqSyfqesWi/" version="1.4.1.v201208171701-7H7DFg0FC7sReqSyfqesWi">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.7.0.v20120917-0436/" version="2.7.0.v20120917-0436">
+</feature>
+<feature id="org.eclipse.mylyn.versions" plugin-identifier="org.eclipse.mylyn.versions.core" url="features/org.eclipse.mylyn.versions_1.1.0.I20120916-0751/" version="1.1.0.I20120916-0751">
+</feature>
+<feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.8.0.v20120917-0436/" version="2.8.0.v20120917-0436">
+</feature>
+</site>
+</config>

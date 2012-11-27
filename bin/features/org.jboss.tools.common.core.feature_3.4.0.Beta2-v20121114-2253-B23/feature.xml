@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.jboss.tools.common.core.feature"
+      label="%featureName"
+      version="3.4.0.Beta2-v20121114-2253-B23"
+      provider-name="%providerName">
+
+   <description url="http://www.jboss.org/tools">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license>
+      %license
+   </license>
+   <plugin
+         id="org.jboss.tools.common.core"
+         download-size="127"
+         install-size="239"
+         version="3.4.0.Beta2-v20121114-2253-B23"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.common"
+         download-size="51"
+         install-size="98"
+         version="3.4.0.Beta2-v20121114-2253-B23"
+         unpack="false"/>
+
+   <plugin
+         id="org.jboss.tools.common.model"
+         download-size="1012"
+         install-size="1218"
+         version="3.4.0.Beta2-v20121114-2253-B23"/>
+
+   <plugin
+         id="org.jboss.tools.common.projecttemplates"
+         download-size="20238"
+         install-size="22867"
+         version="3.4.0.Beta2-v20121114-2253-B23"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Export-Package: org.jboss.tools.jsf.vpe.jsf,org.jboss.tools.jsf.vpe.js
+ f.template,org.jboss.tools.jsf.vpe.jsf.template.selectitem
+Bundle-ActivationPolicy: lazy
+Built-By: hudson
+Eclipse-BundleShape: jar
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Created-By: Apache Maven
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.ui;bundle-version="3.7.0",org.eclipse.core
+ .runtime;bundle-version="3.7.0",org.jboss.tools.common,org.jboss.tool
+ s.vpe,org.mozilla.xpcom,org.jboss.tools.jst.web,org.jboss.tools.jst.j
+ sp,org.eclipse.wst.sse.core;bundle-version="1.1.600",org.eclipse.jst.
+ jsp.core;bundle-version="1.2.400",org.eclipse.wst.html.core;bundle-ve
+ rsion="1.1.500",org.jboss.tools.vpe.html,org.jboss.tools.jsf,org.ecli
+ pse.ui.ide;bundle-version="3.7.0",org.eclipse.ui.editors;bundle-versi
+ on="3.7.0",org.jboss.tools.vpe.xulrunner
+Bundle-Vendor: %providerName
+Bundle-Version: 3.4.0.Beta2-v20121114-2003-B27
+Build-Jdk: 1.6.0_30
+Bundle-Activator: org.jboss.tools.jsf.vpe.jsf.JsfTemplatePlugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.jboss.tools.jsf.vpe.jsf;singleton:=true
+Import-Package: org.eclipse.wst.sse.ui,org.jboss.tools.jst.web.tld
+Archiver-Version: Plexus Archiver
+
