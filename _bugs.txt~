@@ -120,7 +120,7 @@ Solution:
     </signjar>
 
 - custom version of ant that is present in Starlink doesn't support the task "digestalg", so it has to be added:
-    - ant/src/main/org/apache/tools/ant/taskdefs/SignJar.java
+    - ant/src/main/org/apache/tools/ant/taskdefS/SignJar.java
         - original:
             protected String tsacert;
             
